@@ -29,7 +29,7 @@
 |-|VS코드 저장시 자동포맷 파일 지정|개발: 에디터|[Visual Studio code에서 저장시 자동 포맷](https://gyuha.tistory.com/500)|-|
 |2022.05.11|A* vs JPS|개발: 알고리즘:길찾기|[[길찾기 알고리즘] A*냐 JPS냐 ... 그것이 문제로다!](https://www.youtube.com/watch?v=rfOgaPXCADQ)|전략게임에서의 길찾기는 JPS!, 현업에서의 고민과 해답을 찾아가는 접근 방법 또한 인상적으로 배움|
 |-|해시 테이블 개념복습|개발: 자료구조|[해쉬테이블에 대해 알아보고 구현하기](https://www.youtube.com/watch?v=Vi0hauJemxA)|자구 수업에서 배운 해시테이블을 복습하기 위해 하교길에 본 간단한 영상, 설명 정말 깔끔하심!|
-|-|AR 디바이스 동향 및 생태계 예측|개발: XR트렌드|[내 노트 : Trend of AR Device and New Paradigm to be derived, May 2022](https://www.notion.so/SS_2022_Trend-of-AR-Device-and-New-Paradigm-to-be-derived-cc84afd139a448eca1a4209ff341cf74#22a9ec1cfd19421197fa2254bccc09a6)|Apple의 AR Glasses 출시를 앞두고 미래의 생태계를 예측하여 대비하고 싶어서 보고서를 작성하기 시작했다.|
+|-|AR 디바이스 동향 및 생태계 예측|개발: XR트렌드|[내 노트 : Trend of AR Device and New Paradigm to be derived, May 2022](https://velog.io/@he1256/%EB%AF%B8%EC%99%84%EC%84%B1-AR-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-%EB%8F%99%ED%96%A5%EA%B3%BC-%ED%8C%8C%EC%83%9D%EB%90%A0-%EC%83%9D%ED%83%9C%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8A%A4%ED%84%B0%EB%94%94-%EB%B0%8F-%EC%A0%9C%EC%95%88-Trend-of-AR-Device-and-New-Paradigm-to-be-derived-May-2022)|Apple의 AR Glasses 출시를 앞두고 미래의 생태계를 예측하여 대비하고 싶어서 보고서를 작성하기 시작했다.|
 |-|=|=|[개화기에 들어선 XR 시장: 시장현황과 각 기업들의 전략](https://www.youtube.com/watch?v=6APbk7Kx84I&t=30s)|=|
 
 
