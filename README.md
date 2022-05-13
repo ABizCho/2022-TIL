@@ -25,7 +25,9 @@
 |------|---|---|---|---|
 |22.05.13|BST & AVL트리|개발: 자료구조|오늘자 DS 강의노트, [BST 코드, 참조](https://skeo131.tistory.com/163?category=420274), [BST 강의, 이재규](https://ddmix.blogspot.com/2015/01/cppalgo-15-binary-tree-search.html),|BST는 O(logn)의 효율적 탐색을 위한 이진트리 구조, AVL은 균형이진탐색 트리로 Balance Factor를 판별하여 균형 유지-> 탐색의 균일효율보장, but AVL은 생성 시 오버헤드|
 |-|ML Association, Sequence Analysis 이론|머신러닝: 이론|2022 1st DA-ML, Ajou Univ.|흔히 장바구니 분석, sequence분석 으로 불림. Apriori 연관규칙에 따라 각 항목의 조건발생 빈도로 지지도 계산하여 연관규칙 추출한다. 상업적으로 매우 유용한 분석법임|
-|-|BST의 중복키 문제|개발: 자료구조|[BST 왜 중복노드 안되는걸까](https://muckycode.blogspot.com/2015/01/binary-search-treebst.html), [BST 중복키 해결법, Jake Lee](https://www.youtube.com/watch?v=obPNXABwwUA)|BST의 중복노드를 가정할 때, 1.중복 존재 가능성을 배제하여 탐색한다면 필요없는 노드를 가지는 것, 2. 중복노드를 존재를 인정한다면, 언제나 중복을 고려하여 불필요한 경우에도 최하위 리프노드까지의 탐색을 이어가야 함 /=> 두 경우 모두 비효율,but 그나마 이진트리+연결리스트 로 유사 해결법 존재|
+|-|BST의 중복키 문제|개발: 자료구조|[BST 왜 중복노드 안되는걸까](https://muckycode.blogspot.com/2015/01/binary-search-treebst.html), [BST 중복키 해결법, Jake Lee](https://www.youtube.com/watch?v=obPNXABwwUA)|BST의 중복노드를 가정할 때, 1.중복 존재 가능성을 배제하여 탐색한다면 필요없는 노드를 가지는 것, 2. 중복노드를 존재를 인정한다면, 언제나 중복을 고려하여 불필요한 경우에도 
+최하위 리프노드까지의 탐색을 이어가야 함 /=> 두 경우 모두 비효율,but 그나마 이진트리+연결리스트 로 유사 해결법 존재|
+|-|JAVA의 미래|개발: 트렌드|[What is the future of Java developers?](https://www.quora.com/What-is-the-future-of-Java-developers?fbclid=IwAR1ypUdec-eKcMOD7eMsO2gZ6GdMBnVbiKD0jUa2IOKMKHsxcBQEkLQChp4)|오라클과의 분쟁으로 구글이 자바를 대체할 코틀린 생태계를 구축하고 있는 것은 사실이다. 하지만 자바는 이미 견고하고 거대한 생태계와 견고한 기반을 제공하며 적어도 비영어권 국가에선 JAVA의 구직이 여전히 우세이므로, 적어도 10년정도는 그 명맥을 유지할 것|
 |22.05.12|파이어베이스 기초지식|개발: DB지식|[파이어베이스란 무엇인가? 1~3, 위시켓](https://blog.wishket.com/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4firebase%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%8B%AC%EC%B8%B5-%ED%83%90/)|포트폴리오 페이지에 사용할 기술 후보 탐색 중 가볍게 알아봄|
 |-|VS코드 저장시 자동포맷 파일 지정|개발: 에디터|[Visual Studio code에서 저장시 자동 포맷](https://gyuha.tistory.com/500)|-|
 |-|개발자 마인드셋|개발:마인드|[코딩실력보다 중요한 것](https://youtu.be/0uRj72i-7gg)|프로젝트로부터 배우는 것을 모래성처럼 사라지게 두지 말라, 가장 중요한 것은 성실|
