@@ -25,9 +25,16 @@
 |------|---|---|---|---|
 |22.05.13|BST & AVL트리|개발: 자료구조|오늘자 DS 강의노트, [BST 코드, 참조](https://skeo131.tistory.com/163?category=420274), [BST 강의, 이재규](https://ddmix.blogspot.com/2015/01/cppalgo-15-binary-tree-search.html),|BST는 O(logn)의 효율적 탐색을 위한 이진트리 구조, AVL은 균형이진탐색 트리로 Balance Factor를 판별하여 균형 유지-> 탐색의 균일효율보장, but AVL은 생성 시 오버헤드|
 |-|ML Association, Sequence Analysis 이론|머신러닝: 이론|2022 1st DA-ML, Ajou Univ.|흔히 장바구니 분석, sequence분석 으로 불림. Apriori 연관규칙에 따라 각 항목의 조건발생 빈도로 지지도 계산하여 연관규칙 추출한다. 상업적으로 매우 유용한 분석법임|
+<<<<<<< HEAD
 |-|BST의 중복키 문제|개발: 자료구조|[BST 왜 중복노드 안되는걸까](https://muckycode.blogspot.com/2015/01/binary-search-treebst.html), [BST 중복키 해결법, Jake Lee](https://www.youtube.com/watch?v=obPNXABwwUA)|BST의 중복노드를 가정할 때, 1.중복 존재 가능성을 배제하여 탐색한다면 필요없는 노드를 가지는 것, 2. 중복노드를 존재를 인정한다면, 언제나 중복을 고려하여 불필요한 경우에도 
 최하위 리프노드까지의 탐색을 이어가야 함 /=> 두 경우 모두 비효율,but 그나마 이진트리+연결리스트 로 유사 해결법 존재|
 |-|JAVA의 미래|개발: 트렌드|[What is the future of Java developers?](https://www.quora.com/What-is-the-future-of-Java-developers?fbclid=IwAR1ypUdec-eKcMOD7eMsO2gZ6GdMBnVbiKD0jUa2IOKMKHsxcBQEkLQChp4)|오라클과의 분쟁으로 구글이 자바를 대체할 코틀린 생태계를 구축하고 있는 것은 사실이다. 하지만 자바는 이미 견고하고 거대한 생태계와 견고한 기반을 제공하며 적어도 비영어권 국가에선 JAVA의 구직이 여전히 우세이므로, 적어도 10년정도는 그 명맥을 유지할 것|
+=======
+|-|BST의 중복키 문제|개발: 자료구조|[BST 왜 중복노드 안되는걸까](https://muckycode.blogspot.com/2015/01/binary-search-treebst.html), [BST 중복키 해결법, Jake Lee](https://www.youtube.com/watch?v=obPNXABwwUA)|BST의 중복노드를 가정할 때, 1.중복 존재 가능성을 배제하여 탐색한다면 필요없는 노드를 가지는 것, 2. 중복노드를 존재를 인정한다면, 언제나 중복을 고려하여 불필요한 경우에도 최하위 리프노드까지의 탐색을 이어가야 함 /=> 두 경우 모두 비효율,but 그나마 이진트리+연결리스트 로 유사 해결법 존재|
+|-|프라이빗 클라우드 VDI전환 케이스|개발: 기업사례|[SK C&C 프라이빗 클라우드 VDI 전환, IDG](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:3b14a39a-c24e-34e3-865f-a4d0b0f7379b)|HPE 그린레이크-심플리비티 솔루션을 활용한 기업의 VDI로의 성공적인 전환사례를 다룬 케이스스터디 보고서를 읽었다,클라우드에 대한 지식이 거의 전무하여 개념,용어를 찾아가며 읽어야 했지만 큰 규모의 서비스 전환은 어떤 방법으로 이뤄지는지 미약하게나마 엿볼 수 있었다.|
+|-|함수형 프로그래밍 개념|개발: 프로그래밍 패러다임|[함수형 프로그래밍이 대세다?,드림코딩](https://youtu.be/4ezXhCuT2mw)|빅데이터 등 데이터처리 요구의 증가로, 병렬적 데이터 처리의 안정적,효율적 처리가 부각받기 시작 -> 함수형 프로그래밍 주목 / 특징으로는 1.순수함수, 2.비상태, 불변성 유지 3.if,for 등을 사용하지 않는 expression only 특징 4.First class함수: 함수를 변수로 사용하는 등, higher-order functions:함수를 인자로 전달,반환 /+(Monad, semigroup 등의 특징을 이해할 필요)|
+|-|2022 AWS summit korea|개발: AWS 클라우드|[2022 AWS summit korea 기조연설,신한투자,당근마켓 케이스 등](https://summits-korea.virtual.awsevents.com/media/Day%201%20%EA%B8%B0%EC%A1%B0%EC%97%B0%EC%84%A4/1_14g8gbrb)|하교길에 AWS서밋에 등록했던 알림이 와서 봤다, 막연했던 클라우드의 개념을 기조연설과 다양한 최신 국내 파트너사의 현업 도입사례를 통해 얕게나마 더 개념을 구체화시킬 수 있었음, 특히 온프레미스와 클라우드의 장단점을 대조한 설명이 많았다. 기조연설에서 CEO는 머신러닝 등 자사의 Saas를 더욱 강조하는 듯 했는데, 오늘 ML강의의 타 조의 케이스스터디 발표가 네이버의 신세대 Aiaas 클로바를 주제로하였기에 더욱 인상적이었음. IT기업의 saas에 대한 요구와 이목이 집중되는걸 체감|
+>>>>>>> 1b8721569fea6ae83334915f7f245add6124376c
 |22.05.12|파이어베이스 기초지식|개발: DB지식|[파이어베이스란 무엇인가? 1~3, 위시켓](https://blog.wishket.com/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4firebase%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%8B%AC%EC%B8%B5-%ED%83%90/)|포트폴리오 페이지에 사용할 기술 후보 탐색 중 가볍게 알아봄|
 |-|VS코드 저장시 자동포맷 파일 지정|개발: 에디터|[Visual Studio code에서 저장시 자동 포맷](https://gyuha.tistory.com/500)|-|
 |-|개발자 마인드셋|개발:마인드|[코딩실력보다 중요한 것](https://youtu.be/0uRj72i-7gg)|프로젝트로부터 배우는 것을 모래성처럼 사라지게 두지 말라, 가장 중요한 것은 성실|
