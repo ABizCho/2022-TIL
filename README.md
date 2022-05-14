@@ -23,7 +23,7 @@
 ## 5월
 |날짜|배운것|분야|관련자료|한줄평|
 |------|---|---|---|---|
-22.05.14|OOP가 사라지지 않을 이유|개발: 프로그래밍 패러다임|[함수형 프로그래밍, 포프](https://youtu.be/XoH9jzblxKQ)|C 등의 OOP기반 플밍 시 멀티스레드 환경에선 레이스컨디션이 발생-이를 막기위해 락 or 아토믹 등을 사용하면 성능저하.But 이를 사용하지 않을 시 C가 훨씬 빠름. 함수형은 immutable한 특성으로 멀티스레드의 레이스컨디션 영향X, 그게 다임. 어제 엘리님영상에선 FP의 장점만을 봤는데 현실적인 면도 볼수 있었음|
+22.05.14|멀티스레드 환경의 OOP vs FP|개발: 프로그래밍 패러다임|[함수형 프로그래밍, 포프](https://youtu.be/XoH9jzblxKQ)|C 등의 OOP기반 플밍 시 멀티스레드 환경에선 레이스컨디션이 발생-이를 막기위해 락 or 아토믹 등을 사용하면 성능저하.But 이를 사용하지 않을 시 C가 훨씬 빠름. 함수형은 immutable한 특성으로 멀티스레드의 레이스컨디션 영향X, 그게 다임. 어제 엘리님영상에선 FP의 장점만을 봤는데 현실적인 면도 볼수 있었음|
 |22.05.13|BST & AVL트리|개발: 자료구조|오늘자 DS 강의노트, [BST 코드, 참조](https://skeo131.tistory.com/163?category=420274), [BST 강의, 이재규](https://ddmix.blogspot.com/2015/01/cppalgo-15-binary-tree-search.html),|BST는 O(logn)의 효율적 탐색을 위한 이진트리 구조, AVL은 균형이진탐색 트리로 Balance Factor를 판별하여 균형 유지-> 탐색의 균일효율보장, but AVL은 생성 시 오버헤드|
 |-|ML Association, Sequence Analysis 이론|머신러닝: 이론|2022 1st DA-ML, Ajou Univ.|흔히 장바구니 분석, sequence분석 으로 불림. Apriori 연관규칙에 따라 각 항목의 조건발생 빈도로 지지도 계산하여 연관규칙 추출한다. 상업적으로 매우 유용한 분석법임|
 |-|BST의 중복키 문제|개발: 자료구조|[BST 왜 중복노드 안되는걸까](https://muckycode.blogspot.com/2015/01/binary-search-treebst.html), [BST 중복키 해결법, Jake Lee](https://www.youtube.com/watch?v=obPNXABwwUA)|BST의 중복노드를 가정할 때, 1.중복 존재 가능성을 배제하여 탐색한다면 필요없는 노드를 가지는 것, 2. 중복노드를 존재를 인정한다면, 언제나 중복을 고려하여 불필요한 경우에도 최하위 리프노드까지의 탐색을 이어가야 함 /=> 두 경우 모두 비효율,but 그나마 이진트리+연결리스트 로 유사 해결법 존재|
