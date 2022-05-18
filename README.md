@@ -23,6 +23,7 @@
 ## 5월
 |날짜|배운것|분야|관련자료|한줄평|
 |------|---|---|---|---|
+|22.05.18|디자인패턴 S 단일책임원칙|개발 : 디자인패턴|[단일책임원칙](https://youtu.be/Tit-bJJm9iw)/[OOP 단일책임, 알파카](http://naver.me/xsUb2j5I)|객체지향 설계를 위한 SOLID 원칙 중 S에 해당하는 단일책임 원칙. 하나의 객체는 하나만의 동작을 갖는다. 객체의 책임범위를 줄임으로써 수정으로 인한 cascading 부작용을 줄이며 무분별한 접근을 방지한다.|
 |22.05.16|Py Matplotlib 서브플롯 레이아웃|개발: 데이터분석PY|[서브플롯 간의 간격 조절, DataPlstachio](https://steadiness-193.tistory.com/174)|subplots_adjust, tight_layout(), constrained_layout 등의 메서드를 사용하여 레이아웃 조절 가능|
 |-|Py matplotlib y축 뒤집은 차트|개발: 데이터분석PY|[Reverse Y-Axis in PyPlot](https://stackoverflow.com/questions/2051744/reverse-y-axis-in-pyplot)|가장 간단하게 ylim을 뒤집어 설정함으로써 해결 가능|
 |-|Py jupyter노트북 nbextensions 기능 적용|개발: 데이터분석PY|[확장 기능! Nbextensions](https://bio-info.tistory.com/14)|nbextensions를 통해 코드폴딩, html&pdf 변환 등의 기능을 주피터에서 수행 가능|
