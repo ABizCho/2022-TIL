@@ -23,9 +23,10 @@
 ## 5월
 |날짜|배운것|분야|관련자료|한줄평|
 |------|---|---|---|---|
+|22.05.19|검증하는 프로그래머|개발: 마인드셋|[프로그래머는 검증한다, 포프](https://youtu.be/hWwJF-fU2Lg)|참조 기계가 되지 말고 근본적인 문제해결 능력을 배양하자.|
 |22.05.18|디자인패턴 S 단일책임원칙|개발: 디자인패턴|[단일책임원칙](https://youtu.be/Tit-bJJm9iw)/[OOP 단일책임, 알파카](http://naver.me/xsUb2j5I)|객체지향 설계를 위한 SOLID 원칙 중 S에 해당하는 단일책임 원칙. 하나의 객체는 하나만의 동작을 갖는다. 객체의 책임범위를 줄임으로써 수정으로 인한 cascading 부작용을 줄이며 무분별한 접근을 방지한다.|
-|-|디자인패턴 O 개방폐쇄원칙|개발:디자인패턴|[Open-Closed](https://youtu.be/EmnIdUvTRfk)/[OOP 개방폐쇄, 알파카](https://blog.itcode.dev/posts/2021/08/14/open-closed-principle)|개방폐쇄원칙은 Extension에 대해선 Open하고 Modification에 대해선 Closed해야 한다는 원칙이다. 객체의 확장에 제한이 없어야하고 따라서 확장으로 인한 객체 수정이 없어야 한다. 모듈화, 정보 은닉, 객체간 의존성 최소화 지향. 인터페이스 활용|
-|-|ML Association Practice|개발 :데이터분석PY|[Association with Python, 2022 Ajou LN](https://github.com/ABizCho/py_machineLearning/blob/main/ML_PRAC/prac10_Association.py/ML10_0_Association-Python.ipynb)|pandas, seaborn, numpy, {mlxtend.preprocessing - TransactionEncoder,  mlxtend.frequent.frequent_patterns - apriori, association rules} 사용. 평가지표 : Support, Confidence, Lift|
+|-|디자인패턴 O 개방폐쇄원칙|개발: 디자인패턴|[Open-Closed](https://youtu.be/EmnIdUvTRfk)/[OOP 개방폐쇄, 알파카](https://blog.itcode.dev/posts/2021/08/14/open-closed-principle)|개방폐쇄원칙은 Extension에 대해선 Open하고 Modification에 대해선 Closed해야 한다는 원칙이다. 객체의 확장에 제한이 없어야하고 따라서 확장으로 인한 객체 수정이 없어야 한다. 모듈화, 정보 은닉, 객체간 의존성 최소화 지향. 인터페이스 활용|
+|-|ML Association Practice|개발: 데이터분석PY|[Association with Python, 2022 Ajou LN](https://github.com/ABizCho/py_machineLearning/blob/main/ML_PRAC/prac10_Association.py/ML10_0_Association-Python.ipynb)|pandas, seaborn, numpy, {mlxtend.preprocessing - TransactionEncoder,  mlxtend.frequent.frequent_patterns - apriori, association rules} 사용. 평가지표 : Support, Confidence, Lift|
 |-|리액트 구글캘린더 클론코딩 REF|개발: PJ탐색|[구글 캘린더 리액트 클론코딩 REPO, 정미량](https://github.com/MiryangJung/google-calendar-weekly-clone)|뚜잇 프로젝트에 도움을 줄 수 있는 구글 캘린더 PJ 레포를 발견함 : 달력 위젯 등 구현방법 참고|
 |-|=|=|[연관규칙분석 with Python, 꽁냥이 - Nice ref](https://zephyrus1111.tistory.com/119)/[장바구니 분석(apriori 알고리즘) 사용 및 해석, demonic](https://lemontia.tistory.com/903)|연관분석을 위한 Apriori의 방법과 원리 절차에 대해 더 자세히 알아보기 위한 참고자료들을 찾아보았다|
 |22.05.16|Py Matplotlib 서브플롯 레이아웃|개발: 데이터분석PY|[서브플롯 간의 간격 조절, DataPlstachio](https://steadiness-193.tistory.com/174)|subplots_adjust, tight_layout(), constrained_layout 등의 메서드를 사용하여 레이아웃 조절 가능|
