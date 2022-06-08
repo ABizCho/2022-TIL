@@ -23,6 +23,7 @@
 ## 5월
 |날짜|배운것|분야|관련자료|한줄평|
 |------|---|---|---|---|
+|22.06.08|파이썬 NLP와 감성분석, Word Cloud|py데이터분석: 실전|[Yelp NLP & Sentiment analysis ,kaggle - SACHIN SHARMA](https://www.kaggle.com/code/sachinsharma1123/sentiment-analysis)|ML PY NLP관련 과제를 진행하던 중 워드클라우드를 추가적으로 만들고 싶어서 여러 자료를 찾아보고 적용했다.|
 |22.06.06|자료구조 탐색, 이진트리 복습|자료구조: 복습|[내노트: 작성요망]()|기말대비 탐색과 이진트리를 복습했다.|
 |22.06.05|파이썬 회귀의 다중공선성 해결|데이터분석: 실전|[파이썬 스케일링 실전](https://datascienceschool.net/03%20machine%20learning/04.03%20%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81.html) / [[Python] 데이터 사이언스 스쿨 - 5.3 다중공선성과 변수선택](https://romg2.github.io/dss/04_%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-%EC%8A%A4%EC%BF%A8-5.3-%EB%8B%A4%EC%A4%91%EA%B3%B5%EC%84%A0%EC%84%B1%EA%B3%BC-%EB%B3%80%EC%88%98%EC%84%A0%ED%83%9D/)/ [다중공선성(Multicollinearity)과 VIF(Variance Inflation Factors)](https://bkshin.tistory.com/entry/DATA-20-%EB%8B%A4%EC%A4%91%EA%B3%B5%EC%84%A0%EC%84%B1%EA%B3%BC-VIF) / [Python 다중공선성 해결, YSY^](https://ysyblog.tistory.com/122)|해당 참고자료에 (1)정규화, (2)변수선택법 (3)PCA 를 이용한 해결법 수록|
 |-|다중공선성 해결법:파이썬 Scaler 종류,특징|데이터분석: 이론|[[Python/sklearn] Scaler 별 특징 / 사용법 / 차이 / 예시](https://mingtory.tistory.com/m/140)|Standard scaler, Normalizer, MinMaxScaler, Robust Sclaer 등 정규화를 위한 python 스케일러들의 특징과 사용례 등을 정리한 노트|
