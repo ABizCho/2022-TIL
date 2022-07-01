@@ -24,6 +24,7 @@
 |------|---|---|---|---|
 |22.07.01|현대 MOBIS 알고리즘 경진대회 예선 참가|개발: 알고리즘|[내 Mobis 예선 풀이](https://github.com/ABizCho/py_algorithm/blob/main/SolvedOthers/mobis_solved_p1.py)|현대 Mobis 알고리즘 경진대회 예선에 참가해봤다. 아직 참가에 의의를 두는 정도이지만, 머지않아 꼭 입상하리라 다짐한다.|
 |-|BeautifulSoup vs Scrapy 비교|개발: 웹스크래핑|[Scrapy vs BeautifulSoup](https://livedata.tistory.com/25)|SMA 프로젝트에 사용될 WEB scrapper를 비교해 보았다. SMA프로젝트는 1회성 연구로, 비교적 확장성은 부족하지만 사용이 편리한 BeautifulSoup를 이용해 먼저 접근해보고자 한다.|
+|-|백준 단계9.재귀 & 단계11.정렬 ~ ing|개발: 알고리즘|[MyAL: 재귀 풀이레포](https://github.com/ABizCho/py_algorithm/tree/main/Solved_BJ/P8_RECURSIVE) / [MyAL: 2750 풀이](https://github.com/ABizCho/py_algorithm/blob/main/Solved_BJ/P11_SORT/solved_2750_sortNum1.py)| 백준 단계별 풀이로 9단계 재귀 몇가지 풀이 + 단계별 11단계 2750문제를 O(N^2)의 간단한 정렬 3가지 (선택/삽입/버블)을 이용해 풀이했다.|
 
 <br><br>
 
