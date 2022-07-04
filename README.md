@@ -22,11 +22,12 @@
 ## 7월
 |날짜|배운것|분야|관련자료|한줄평|
 |------|---|---|---|---|
+|22.07.04|웹트랙 궁금증: Element와 요소노드의 포함관계|개발: 웹프론트|2022 Summ AI양재 웹트랙 1주차|노드 선행학습 중 궁금한 점. HTML문서 내 모든 요소는 요소노드라고 했음. 요소=요소노드 라고 생각했는데, 뒤의 속성노드 접근예시를 보면, getEl.. 메서드를 사용해 요소를 선택하고 그것의 자식노드를 firstChild 프로퍼티를 통해 더 깊게 접근한 것을 보았는데 getEl 메서드나 노드 지정선택이나 모두 노드요소를 선택하는게 맞는지?|
 |22.07.03|선택, 삽입, 버블 정렬 구현 복습|개발: 알고리즘|백준 2750|선택, 삽입, 버블을 이용한 풀이 구현을 복습했음|
 |-|SMA 프로젝트 주차별 연구 계획서 작성|데이터분석: SMA|[SMA 주차별 계획서 MarkDown](https://github.com/ABizCho/SMA_2022summerProject/blob/main/docx/2_Analysis_weeklyPlan.md)|7.4~8월까지의 연구 주차별 계획서를 작성했음|
 |22.07.02|카운팅 정렬(계수정렬) 개념 추가 복습 및 구현|개발: 알고리즘|[24강 계수 정렬, 동빈나](https://www.youtube.com/watch?v=65Ui3RNibRA) / [내구현: 카운팅 정렬](https://github.com/ABizCho/py_algorithm/blob/main/Learn/sort/sort4_counting.py)| 카운팅 정렬의 개념을 추가 복습하고, 이를 코드로 구현했다. 카운팅 정렬은 기존 정렬의 성능 한계점인 O(nlogn)을 극복하여 O(n+k)의 시간 복잡도를 가진다. 하지만 O(n+k)의 공간 복잡도를 가져 한계점이 있는데, 키값의 범위 전체(최소~최대) 사이 값 전체를 인덱스로 취하여 빈도를 저장하므로 양극단에만 카운팅이 몰리는 경우 혹은 과하게 넓은 도메인 범위를 가진 대상을 정할 경우 메모리를 과도하게 초과할 수 있다는 문제점이 존재.| 
 -|Merge Sort(병합정렬) 개념,원리 추가 복습|개발: 알고리즘|[병합정렬(Merge Sort) 구현하기](https://www.youtube.com/watch?v=QAyl79dCO_k)|병합정렬 알고리즘은 분할-정복을 이용하여 순환적으로 구현함 n개의 데이터에 대해 logn의 분할 길이를 가지므로 O(nlogn)의 시간복잡도| 
-|-|AI양재허브 웹트랙 1주차 예습|개발: 웹개발|AI양재허브 웹 트랙 1주차 선행학습 자료|AI양재허브 교육으로 Elice에 올라온 선행학습 강의와 퀴즈를 통해 1주차 DOM 개념, JS로 DOM 조작 등의 개념을 학습하고 실습을 수행했다. 아직까진 뚜잇 프로젝트 등으로 이미 충분히 학습 및 활용해봤던 영역이지만, 지난 기간동안 Object 개념과 자료구조를 학습하여 그 당시 활용했을때와 근본적 이해의 큰 차이를 느끼고 있음|
+|-|AI양재허브 웹트랙 1주차 예습|개발: 웹프론트|AI양재허브 웹 트랙 1주차 선행학습 자료|AI양재허브 교육으로 Elice에 올라온 선행학습 강의와 퀴즈를 통해 1주차 DOM 개념, JS로 DOM 조작 등의 개념을 학습하고 실습을 수행했다. 아직까진 뚜잇 프로젝트 등으로 이미 충분히 학습 및 활용해봤던 영역이지만, 지난 기간동안 Object 개념과 자료구조를 학습하여 그 당시 활용했을때와 근본적 이해의 큰 차이를 느끼고 있음|
 |22.07.01|현대 MOBIS 알고리즘 경진대회 예선 참가|개발: 알고리즘|[내 Mobis 예선 풀이](https://github.com/ABizCho/py_algorithm/blob/main/SolvedOthers/mobis_solved_p1.py)|현대 Mobis 알고리즘 경진대회 예선에 참가해봤다. 아직 참가에 의의를 두는 정도이지만, 머지않아 꼭 입상하리라 다짐한다.|
 |-|BeautifulSoup vs Scrapy 비교|개발: 웹스크래핑|[Scrapy vs BeautifulSoup](https://livedata.tistory.com/25) / [Scrapy Vs Selenium Vs Beautiful Soup for Web Scraping.](https://medium.com/analytics-vidhya/scrapy-vs-selenium-vs-beautiful-soup-for-web-scraping-24008b6c87b8)|SMA 프로젝트에 사용될 WEB scrapper를 비교해 보았다. SMA프로젝트는 1회성 연구로, 비교적 확장성은 부족하지만 사용이 편리한 BeautifulSoup를 이용해 먼저 접근해보고자 한다.|
 |-|백준 단계9.재귀 & 단계11.정렬 ~ ing|개발: 알고리즘|[MyAL: 재귀 풀이레포](https://github.com/ABizCho/py_algorithm/tree/main/Solved_BJ/P8_RECURSIVE) / [MyAL: 2750 풀이](https://github.com/ABizCho/py_algorithm/blob/main/Solved_BJ/P11_SORT/solved_2750_sortNum1.py)| 백준 단계별 풀이로 9단계 재귀 몇가지 풀이 + 단계별 11단계 2750문제를 O(N^2)의 간단한 정렬 3가지 (선택/삽입/버블)을 이용해 풀이했다.|
