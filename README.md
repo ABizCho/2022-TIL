@@ -22,7 +22,9 @@
 ## 7월
 |날짜|배운것|분야|관련자료|한줄평|
 |------|---|---|---|---|
-|22.07.06|작성요망|-|-|-|
+|22.07.07|웹트랙 1주 4일차 오전|-|-|-|
+|-|웹트랙 1주 4일차 오후|-|-|-|
+|-|reduce, map 배열 메서드 추가학습|-|-|-|
 |22.07.06|웹트랙 1주 3일차 오전|개발: 웹프론트|[MyRepoL 2022Sum AI허브 웹 1주차 D3](https://github.com/ABizCho/Aihub_webTrack/tree/main/Learn/week1/w1_D3)|js는 싱글 스레드 방식으로 스택에서 실행코드 동작, 대기열 큐에 setTimeout, Ajax, 이벤트 리스너 등의 비동기 코드동작을 대기시켰다가 선행 코드가 스택에서 실행완료시 대기열큐에서 스택으로 옮겨 실행시키는 방식이며, 변수 등이 저장되는 스코프 공간은 Heap구조로 되어있음. / [this, variable object, scope chain]을 실행 컨텍스트라고 하며 이들은 처음엔 항상 초기화됨,'전역 실행 컨텍스트', 초기화 시 각각 순서대로 [ windows(최상단:글로벌을 this로 잡음), {}, [] ] 가 저장됨. 이후 함수 호출 등 동작 수행 시, 새로이 갱신되는 구조.|
 |-|화살표 함수의 this|개발: 웹프론트|[웹트랙 w1D3: 화살표 함수의 this](https://github.com/ABizCho/Aihub_webTrack/blob/main/Learn/week1/w1_D3/w1_D3_context.md)|일반 메서드의 this는 메서드를 호출한 객체 그 자신을 가리키지만, 화살표 함수의 this는 자신보다 한단계 상위를 대상으로 가리킴 / 첨부된 예제의 경우 메서드 소유자 객체 o의 한단계 상위로 나가면 최상위(글로벌)이므로 this가 윈도우를 가리키게됨.|
 |-|백준 2751 수 정렬 2 O(NlogN) - 퀵|개발: 알고리즘|[MyAL: 2751 O(NlogN)정렬 퀵 풀이](https://github.com/ABizCho/py_algorithm/blob/main/Solved_BJ/P11_SORT/solved_2751_sortNum2.py)|2751 수정렬3을 퀵 정렬을 이용해 풀어 O(NlogN)을 만족시킴|
