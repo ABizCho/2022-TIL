@@ -22,6 +22,8 @@
 ## 7월
 |날짜|배운것|분야|관련자료|한줄평|
 |------|---|---|---|---|
+|22.07.08|웹트랙-w1D5) 비동기|개발: 웹프론트|[Mymd: w1D5 js비동기](https://github.com/ABizCho/Aihub_webTrack/blob/main/Learn/week1/w1_D5/w1D5_1_async.md)|JS엔진은 기본적으로 메인스레드 하나로 동기처리, 비동기 처리를 위해 관련 API [setTimeout, Ajax함수, Promise 등]를 제공함. / JS 실행 구조는 ['콜스택', '잡큐', '태스크큐', '이벤트루프']로 구성/ JS 엔진의 메인 스레드는 콜스택 사용하여 동기코드를 순차처리, 즉시 처리가 불가한 비동기API는 큐에 따로 빼서 비동기명령을 처리하고, 이벤트루프가 스택의 코드가 모두 처리됐는지를 확인하여 비었을 때 큐의 비동기 콜백을 스택으로 옮겨 처리함. 큐에서도 Job큐는 1순위, Task큐는 2순위 로 처리함/ Job큐는 [ Promise, await/async ]를 담으며 Task큐는 [setTimeout, setInterval]을 담당. 각 Promise, await/async, setTimeout 등에 대해선 Mymd 참고|
+|-|웹트랙-w1D5) HTML & Node.js|개발: 웹프론트|[Mymd: w1D5 Http, REST API](https://github.com/ABizCho/Aihub_webTrack/blob/main/Learn/week1/w1_D5/w1D5_2_httpRestAPI.md)|HTML은 웹상의 클라<->서버 간 통신 규약 / 클라는 서버로 요청을 보냄, 서버는 클라의 요청에 응답하며 클라 요청 전엔 대응없음/ 클라와 서버 사이 Web=[proxy, DNS, Tunnel..] 등 무수히 많은 요소 존재하며 HTTP가 이런 존재들 사이의 통신 방법을 규정함 / Message는 [요청/응답]을 의미, 요청메시지와 응답메시지는 다르게 구성됨/ Http status: Http 요청 시, 클라이언트는 요청 결과에 대한 상태 정보(200,400,500.. + Text)를 얻으며 코드를 이용해 각 결과에 해당하는 대응행위 가능/ 요청 메서드: [GET,POST...]등 HTTP에서 클라이언트는 서버로 어떠한 방법으로 요청을 보낼 지, 어떻게 응답,동작할 지 규정되어 있음/ REST API는 HTTP와 클라이언트 간 통신 구조가 지켜야 할 좋은 방법을 명시한 것, 구체적으로는 요청 메서드 의미, URI설계, 클라 상태의 동작 등 명시/ GET: 읽기, POST: 쓰기 -POST는 로그인으로 대표됨|
 |22.07.07|웹트랙 1주 4일차 오전|-|-|-|
 |-|웹트랙 1주 4일차 오후|-|-|-|
 |-|reduce, map 배열 메서드 추가학습|-|-|-|
