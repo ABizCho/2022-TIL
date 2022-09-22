@@ -23,6 +23,7 @@
 |------|---|---|---|---|
 |22.09.22|반응형 디자인 공부|개발: 웹프론트|[CSS: 반응형 웹](https://www.nextree.co.kr/p8622/), [미디어쿼리 예제](https://designbase.co.kr/webcoding-22/)|캡스톤 디자인'머리할래' 프로젝트에 적용하기 위해 웹-모바일 반응형 디자인 공부 / 미디어 쿼리 적용법 4가지(link,style, style-@import, CSS파일) 있음. / 미디어 타입은 대표적으로 all, screen, print 사용/ Fluid Grid, Fluid Layout, Mostly Fluid, Column Drop, Layout Shifter, Tiny Tweaks, Off Canvas, Flexible Imaages 등의 레이아웃 반응 설정법이 있으며 이들을 적절히 사용.|
 |-|Styled Components 공부|개발: 웹프론트|[Styled Components for react 사용법](https://www.daleseo.com/react-styled-components/)|캡디 프로젝트에 사용하기 위해 styled-components를 학습했다.|
+|-|mySQL CLI 사용법, WorkBench, Express연동|개발: 백엔드|[mySQL CLI 사용법](https://velog.io/@ryong9rrr/mySQL-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%A0%95%EB%A6%AC%EC%98%88%EC%A0%9C) / [mySQL Express 연동](https://poiemaweb.com/nodejs-mysql)|캡디 프로젝트를 위해 mySQL 기본 사용법을 학습, GUI툴인 워크벤치 설치, Express 연동법 등 기본적 학습 및 구축을 진행했다.|
 |-|AWS S3 이미지 스토리지 공부|개발: 백엔드|[AWS S3 + Express.js 이미지 스토리지 구축1](https://velog.io/@dldmswjd322/node.js-AWS-s3%EC%99%80-node.js-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%98%AC%EB%A6%AC%EA%B8%B0) / [AWS S3 + Express.js 이미지 업로드 구축2](https://kukekyakya.tistory.com/40) / [AWS S3 + Express.js 이미지 업로드 구축3](https://velog.io/@yeogenius/AWS-S3)|캡디 프로젝트에서 사용하기 위해 AWS S3 이미지 업로드 시스템 구축법을 공부했다.|
 |22.09.21|HTTP1.0-HTTP3.0 SPDY, QUIC|개발: 네트워크|-|-|-| 
 ## 8월
