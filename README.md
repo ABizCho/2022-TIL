@@ -21,6 +21,7 @@
 ## 9월
 |날짜|배운것|분야|관련자료|한줄평|
 |------|---|---|---|---|
+|22.09.29|Draw.io ERD그리기 prac|개발: DB설계|[How to use Draw.io](https://www.youtube.com/watch?v=lAtCySGDD48)|캡디 머리할래 프로젝트의 ERD를 그리기 위해 Draw.io사용법 숙지|
 |22.09.22|반응형 디자인 공부|개발: 웹프론트|[CSS: 반응형 웹](https://www.nextree.co.kr/p8622/), [미디어쿼리 예제](https://designbase.co.kr/webcoding-22/)|캡스톤 디자인'머리할래' 프로젝트에 적용하기 위해 웹-모바일 반응형 디자인 공부 / 미디어 쿼리 적용법 4가지(link,style, style-@import, CSS파일) 있음. / 미디어 타입은 대표적으로 all, screen, print 사용/ Fluid Grid, Fluid Layout, Mostly Fluid, Column Drop, Layout Shifter, Tiny Tweaks, Off Canvas, Flexible Imaages 등의 레이아웃 반응 설정법이 있으며 이들을 적절히 사용.|
 |-|Styled Components 공부|개발: 웹프론트|[Styled Components for react 사용법](https://www.daleseo.com/react-styled-components/)|캡디 프로젝트에 사용하기 위해 styled-components를 학습했다.|
 |-|mySQL CLI 사용법, WorkBench, Express연동|개발: 백엔드|[mySQL CLI 사용법](https://velog.io/@ryong9rrr/mySQL-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%A0%95%EB%A6%AC%EC%98%88%EC%A0%9C) / [mySQL Express 연동](https://poiemaweb.com/nodejs-mysql)|캡디 프로젝트를 위해 mySQL 기본 사용법을 학습, GUI툴인 워크벤치 설치, Express 연동법 등 기본적 학습 및 구축을 진행했다.|
