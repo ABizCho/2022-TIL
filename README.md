@@ -21,8 +21,8 @@
 ## 9월
 |날짜|배운것|분야|관련자료|한줄평|
 |------|---|---|---|---|
-|22.10.03|스프링부트 & MYSQL REST API 환경구축 & 설계 학습|[스프링부트 CRUD REST API (JPA, MySQL, Gradle)](https://covenant.tistory.com/243)|이번 프로젝트를 통해 자바 스프링부트를 학습해보기 위해 백엔드 REST API를 해당 스택을 이용해 설계해보기로 했다. VS CODE를 이용한 개발환경 구축에 조금 애를 먹었지만 해결했고, 스프링부트 튜토리얼을 수행했으며 POSTMAN으로 테스트해보았다. JPA개념을 조금 더 공부해야겠다.|
-|22.09.30|ERD CLOUD를 이용한 머리할래 erd 설계|개발: DB설계|[머리할래 ERD](https://www.erdcloud.com/d/XDWzR9exbEcugD5Yj)|캡디 머리할래 프로젝트의 ERD를 ERD CLOUD를 이용해 설계했음|
+|22.10.03|스프링부트 & MYSQL REST API 환경구축 & 설계 학습|개발: 백엔드|[스프링부트 CRUD REST API (JPA, MySQL, Gradle)](https://covenant.tistory.com/243)|이번 프로젝트를 통해 자바 스프링부트를 학습해보기 위해 백엔드 REST API를 해당 스택을 이용해 설계해보기로 했다. VS CODE를 이용한 개발환경 구축에 조금 애를 먹었지만 해결했고, 스프링부트 튜토리얼을 수행했으며 POSTMAN으로 테스트해보았다. JPA개념을 조금 더 공부해야겠다.|
+|22.09.30|ERD CLOUD를 이용한 머리할래 erd 설계|개발: 백엔드|[머리할래 ERD](https://www.erdcloud.com/d/XDWzR9exbEcugD5Yj)|캡디 머리할래 프로젝트의 ERD를 ERD CLOUD를 이용해 설계했음|
 |22.09.29|Draw.io ERD그리기 prac|개발: DB설계|[How to use Draw.io](https://www.youtube.com/watch?v=lAtCySGDD48)|캡디 머리할래 프로젝트의 ERD를 그리기 위해 Draw.io사용법 숙지|
 |22.09.22|반응형 디자인 공부|개발: 웹프론트|[CSS: 반응형 웹](https://www.nextree.co.kr/p8622/), [미디어쿼리 예제](https://designbase.co.kr/webcoding-22/)|캡스톤 디자인'머리할래' 프로젝트에 적용하기 위해 웹-모바일 반응형 디자인 공부 / 미디어 쿼리 적용법 4가지(link,style, style-@import, CSS파일) 있음. / 미디어 타입은 대표적으로 all, screen, print 사용/ Fluid Grid, Fluid Layout, Mostly Fluid, Column Drop, Layout Shifter, Tiny Tweaks, Off Canvas, Flexible Imaages 등의 레이아웃 반응 설정법이 있으며 이들을 적절히 사용.|
 |-|Styled Components 공부|개발: 웹프론트|[Styled Components for react 사용법](https://www.daleseo.com/react-styled-components/)|캡디 프로젝트에 사용하기 위해 styled-components를 학습했다.|
