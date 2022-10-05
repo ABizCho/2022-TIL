@@ -23,6 +23,10 @@
 |------|---|---|---|---|
 |22.10.04|패킷 트레이서 실습|개발: 네트워크|[도메인과 DNS – 네임서버란?](https://hanamon.kr/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EB%B3%B8-%EB%8F%84%EB%A9%94%EC%9D%B8%EA%B3%BC-dns-%EB%84%A4%EC%9E%84%EC%84%9C%EB%B2%84%EB%9E%80-%EA%B0%9C%EB%85%90%ED%8E%B8/) / [DNS란?](https://hanamon.kr/dns%eb%9e%80-%eb%8f%84%eb%a9%94%ec%9d%b8-%eb%84%a4%ec%9e%84-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ea%b0%9c%eb%85%90%eb%b6%80%ed%84%b0-%ec%9e%91%eb%8f%99-%eb%b0%a9%ec%8b%9d%ea%b9%8c%ec%a7%80/?utm_source=pocket_mylist)|패킷 트레이서를 이용한 웹서버-DNS서버-클라이언트 간 통신체계를 기초 구축하고, 시뮬레이션으로 DNS동작원리를 직접 보고 이론적 학습을 더했다. 간단히 정리하자면, 클라이언트가 도메인이름을 처음 쿼리하면 이는 DNS서버로 전달되고 이 DNS내 도메인 이름이 저장된 서버에 매칭된 IP주소를 반환하여, 클라이언트는 해당 IP에 3WAY HANDSHAKE를 맺고 다시 접근하는 순서로 진행된다.|
 |22.10.03|스프링부트 & MYSQL REST API 환경구축 & 설계 학습|개발: 백엔드|[스프링부트 CRUD REST API (JPA, MySQL, Gradle)](https://covenant.tistory.com/243)|이번 프로젝트를 통해 자바 스프링부트를 학습해보기 위해 백엔드 REST API를 해당 스택을 이용해 설계해보기로 했다. VS CODE를 이용한 개발환경 구축에 조금 애를 먹었지만 해결했고, 스프링부트 튜토리얼을 수행했으며 POSTMAN으로 테스트해보았다. JPA개념을 조금 더 공부해야겠다.|
+
+## 9월
+|날짜|배운것|분야|관련자료|한줄평|
+|------|---|---|---|---|
 |22.09.30|ERD CLOUD를 이용한 머리할래 erd 설계|개발: 백엔드|[머리할래 ERD](https://www.erdcloud.com/d/XDWzR9exbEcugD5Yj)|캡디 머리할래 프로젝트의 ERD를 ERD CLOUD를 이용해 설계했음|
 |22.09.29|Draw.io ERD그리기 prac|개발: DB설계|[How to use Draw.io](https://www.youtube.com/watch?v=lAtCySGDD48)|캡디 머리할래 프로젝트의 ERD를 그리기 위해 Draw.io사용법 숙지|
 |22.09.22|반응형 디자인 공부|개발: 웹프론트|[CSS: 반응형 웹](https://www.nextree.co.kr/p8622/), [미디어쿼리 예제](https://designbase.co.kr/webcoding-22/)|캡스톤 디자인'머리할래' 프로젝트에 적용하기 위해 웹-모바일 반응형 디자인 공부 / 미디어 쿼리 적용법 4가지(link,style, style-@import, CSS파일) 있음. / 미디어 타입은 대표적으로 all, screen, print 사용/ Fluid Grid, Fluid Layout, Mostly Fluid, Column Drop, Layout Shifter, Tiny Tweaks, Off Canvas, Flexible Imaages 등의 레이아웃 반응 설정법이 있으며 이들을 적절히 사용.|
